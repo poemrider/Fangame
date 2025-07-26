@@ -1,0 +1,1397 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: qM756QDMahlhHW1SXU4mfhg8x/o=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 13zSGlUajdsEelZJwDLr0lru3QA=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: hRAaRDjMYr+LfOKlV1OHML9MOBs=
+
+Name: assets/effects/effects.png
+SHA1-Digest: UtPCSxJHONPINbEowCaaqOpnrPE=
+
+Name: assets/effects/fireball.png
+SHA1-Digest: nXry1Vhp711fA7mdlSzvo63AivE=
+
+Name: assets/effects/specks.png
+SHA1-Digest: dE7egT9wQDOH7LQrXcosS+F9cHU=
+
+Name: assets/effects/spell_icons.png
+SHA1-Digest: 0BFmNldi1RJq9Tm0mtsU0rZoimc=
+
+Name: assets/effects/text_icons.png
+SHA1-Digest: HyylizRMAnJK1JPL97RpnWV/NRQ=
+
+Name: assets/environment/custom_tiles/caves_boss.png
+SHA1-Digest: +uowl42A20I92la4iWXsldlwLI8=
+
+Name: assets/environment/custom_tiles/caves_quest.png
+SHA1-Digest: vAXKhGJMAlyt4V2GR7fqQHT9BQc=
+
+Name: assets/environment/custom_tiles/city_boss.png
+SHA1-Digest: 1v1WYhkh+OCLRsJnyGAAWRk7NsE=
+
+Name: assets/environment/custom_tiles/halls_special.png
+SHA1-Digest: F+g9WzggVyTGFiVXAd15VE8fsH8=
+
+Name: assets/environment/custom_tiles/prison_exit.png
+SHA1-Digest: oYXzyriEA2qGApzdYGqHnUJQiso=
+
+Name: assets/environment/custom_tiles/prison_quest.png
+SHA1-Digest: BFqVguUFOjYGqcqMzdJnpMriuso=
+
+Name: assets/environment/custom_tiles/sewer_boss.png
+SHA1-Digest: kaQQMTPOoFsCC1ivjP+VPRl2P0k=
+
+Name: assets/environment/custom_tiles/weak_floor.png
+SHA1-Digest: XbgPPNDV9RcVQfdyB30islVFyII=
+
+Name: assets/environment/terrain_features.png
+SHA1-Digest: Km2GBIbk4SRCHqDt01Me0Sw1xvc=
+
+Name: assets/environment/tiles_caves.png
+SHA1-Digest: /t+S+7WOWd4cv11KOUW4Zsp+9x8=
+
+Name: assets/environment/tiles_caves_crystal.png
+SHA1-Digest: 6U+nBFdCxEyfwigjEQnc+c9jc9Q=
+
+Name: assets/environment/tiles_caves_gnoll.png
+SHA1-Digest: YiQfvzcw4dvJ3xLJYy1ZjE4IYQw=
+
+Name: assets/environment/tiles_city.png
+SHA1-Digest: 7YhXg73B7y1wjBZ4AzTFgdiIvSE=
+
+Name: assets/environment/tiles_halls.png
+SHA1-Digest: 7breskkZwXqmziXLyaBrt5/yZLM=
+
+Name: assets/environment/tiles_prison.png
+SHA1-Digest: QtFNefe9ctlhlFHG2gEx1agN17o=
+
+Name: assets/environment/tiles_sewers.png
+SHA1-Digest: HM82PS2xytXuYCDR5HPd0e1cqLc=
+
+Name: assets/environment/visual_grid.png
+SHA1-Digest: N8Ay10BQXUgEhrZpqmgZQvTF0Lc=
+
+Name: assets/environment/wall_blocking.png
+SHA1-Digest: 0HAWZizemtL85gc1xJcBbS8Ziso=
+
+Name: assets/environment/water0.png
+SHA1-Digest: R0WfRizONBPMuXkHElQ8iqCjeFM=
+
+Name: assets/environment/water1.png
+SHA1-Digest: 99g4+DWxDiPI02XoT24+Kdy2cRI=
+
+Name: assets/environment/water2.png
+SHA1-Digest: Jb24S7UYvoamAI7vTzLNxmxxD20=
+
+Name: assets/environment/water3.png
+SHA1-Digest: Nbf0RJe7PuSpOzbhkP/KJa3ktY8=
+
+Name: assets/environment/water4.png
+SHA1-Digest: i1IBPMuFCb/s+pDhev0qY0cA7Ss=
+
+Name: assets/fonts/pixel_font.png
+SHA1-Digest: OnJH7YCQERbTkrGBeXDmnqtJEJc=
+
+Name: assets/fonts/pixel_font.ttf
+SHA1-Digest: nt6xEB8vC0hjWBCO8aAYtR3x8Cs=
+
+Name: assets/gdx/cursor_controller.png
+SHA1-Digest: c573HJn0QYkdZBT9WRq5ulflmIQ=
+
+Name: assets/gdx/cursor_mouse.png
+SHA1-Digest: ltx/hiUuXACfEa7I+T7tDb27zdA=
+
+Name: assets/gdx/textfield.atlas
+SHA1-Digest: KwImYdDRAXEP9/JIAXqsvO74GS0=
+
+Name: assets/gdx/textfield.json
+SHA1-Digest: O+/aaFeH9Q8BatVD21xptz9Q6sQ=
+
+Name: assets/gdx/textfield.png
+SHA1-Digest: vsE/8Pxj503Yw+HKdWlt1epsURg=
+
+Name: assets/interfaces/arcs1.png
+SHA1-Digest: /dyORNvmCibjfEQSPoGWCpW3xlM=
+
+Name: assets/interfaces/arcs2.png
+SHA1-Digest: Mwpky4nU9BWDc0e0GhgqyR5ezu4=
+
+Name: assets/interfaces/badges.png
+SHA1-Digest: oXPO3xfsXXUFLHfcYaqKMhyBaoY=
+
+Name: assets/interfaces/banners.png
+SHA1-Digest: W52rjO4YGSVQ4CzFITWzVnVTFzI=
+
+Name: assets/interfaces/boss_hp.png
+SHA1-Digest: 1xkDC2gDQG4X9BnomgUw23Y+ubg=
+
+Name: assets/interfaces/buffs.png
+SHA1-Digest: tzh3hxv3Of4jZcOuZZRhVq4fSPc=
+
+Name: assets/interfaces/chrome.png
+SHA1-Digest: Zitr2v9STd/rqUvKmmI5c9wzHPc=
+
+Name: assets/interfaces/hero_icons.png
+SHA1-Digest: BxnQ7HreTpc/AIdBUQX7zqd3Dk4=
+
+Name: assets/interfaces/icons.png
+SHA1-Digest: e4WYO/Shsdgy3MGeKJfC3Sw+7bk=
+
+Name: assets/interfaces/large_buffs.png
+SHA1-Digest: NWksI5hIBwcyvv5OHTm9Yb23Ci4=
+
+Name: assets/interfaces/loading_caves.png
+SHA1-Digest: 2+0PIB0Mdilr2adf/ZxVaPdIZ5M=
+
+Name: assets/interfaces/loading_city.png
+SHA1-Digest: qooPuLJtH5LRd04RqXcMo4GCl6o=
+
+Name: assets/interfaces/loading_halls.png
+SHA1-Digest: uTfFM4XlpVtQz6S2MHxCzFkrD14=
+
+Name: assets/interfaces/loading_prison.png
+SHA1-Digest: ygPleml4ekjAweKjUukHDBG/1jI=
+
+Name: assets/interfaces/loading_sewers.png
+SHA1-Digest: P9ENqpdViqUC1eiYtic4Kdv5iH0=
+
+Name: assets/interfaces/locked_badge.png
+SHA1-Digest: kDLsRY4tvUsJgq6pF6K4A+iAxqY=
+
+Name: assets/interfaces/menu_button.png
+SHA1-Digest: Ai9avnV/WZRQXnbXIVGTFkj2P7A=
+
+Name: assets/interfaces/menu_pane.png
+SHA1-Digest: 5an0qKF2g6fCS/ddi3YRid60JtQ=
+
+Name: assets/interfaces/radial_menu.png
+SHA1-Digest: gnsumEehb3zPl9qOFSJqBYnif0w=
+
+Name: assets/interfaces/shadow.png
+SHA1-Digest: plv/YLMHsLXu7LI48HOGJ5qkwn4=
+
+Name: assets/interfaces/status_pane.png
+SHA1-Digest: VXVH3VCFbnDMhqMZ1YLLudRtxJw=
+
+Name: assets/interfaces/surface.png
+SHA1-Digest: 0zhVsDdJt9UhRf7JFyF9V5PN2/U=
+
+Name: assets/interfaces/talent_button.png
+SHA1-Digest: HZWthnOJx5cwN3OmmXGk66eaZJQ=
+
+Name: assets/interfaces/talent_icons.png
+SHA1-Digest: aEARzr9SASr16bKODHXUV213Jw8=
+
+Name: assets/interfaces/toolbar.png
+SHA1-Digest: eeBFuhRslnPkYz3YaeHZEPGSxGo=
+
+Name: assets/messages/actors/actors.properties
+SHA1-Digest: t3+UEMyXOlAXcQzIXdP1AuRZbz8=
+
+Name: assets/messages/actors/actors_be.properties
+SHA1-Digest: DHK4gBNSbEYExBVc6Q00bElRh2M=
+
+Name: assets/messages/actors/actors_cs.properties
+SHA1-Digest: qBs6Q/uBiFpOvFgTZwwSQEYV7xM=
+
+Name: assets/messages/actors/actors_de.properties
+SHA1-Digest: P2VORNE8SIA+YJhJI8Y2J66JdBk=
+
+Name: assets/messages/actors/actors_el.properties
+SHA1-Digest: wYQ/BHt44x5wJmflWzpff/v9TlY=
+
+Name: assets/messages/actors/actors_es.properties
+SHA1-Digest: h+1lGME507EJjp6NOuS7Lhkxbxw=
+
+Name: assets/messages/actors/actors_fr.properties
+SHA1-Digest: odyes3KflAwep9RLWGy2RytSC1A=
+
+Name: assets/messages/actors/actors_hu.properties
+SHA1-Digest: CVKXEPSvxnzTjShXaHK7oVICoU4=
+
+Name: assets/messages/actors/actors_in.properties
+SHA1-Digest: jJg1n/SJ+FX4rIHV6Og3epeQwNQ=
+
+Name: assets/messages/actors/actors_it.properties
+SHA1-Digest: njd41ixQ68Nonm1eD542EvdWMN0=
+
+Name: assets/messages/actors/actors_ja.properties
+SHA1-Digest: Pe4L/9KaSRqN/otBwj0gyRZOECo=
+
+Name: assets/messages/actors/actors_ko.properties
+SHA1-Digest: jCWOSo8GzDKifokNafbCLppccgI=
+
+Name: assets/messages/actors/actors_nl.properties
+SHA1-Digest: 5BtuWCwRuoVQBIX3aj/eits9064=
+
+Name: assets/messages/actors/actors_pl.properties
+SHA1-Digest: NJMqhu1hOKyi9qdPxYAEcMF02G8=
+
+Name: assets/messages/actors/actors_pt.properties
+SHA1-Digest: V26m7e7IEu86aEPWrjGrEaLl1LA=
+
+Name: assets/messages/actors/actors_ru.properties
+SHA1-Digest: qfOaMarT03L9RhWgxdfzO4t6na0=
+
+Name: assets/messages/actors/actors_tr.properties
+SHA1-Digest: F3+uh4Ciak43LRQqjKkzcWq44+Y=
+
+Name: assets/messages/actors/actors_uk.properties
+SHA1-Digest: A/eDteiVF6qUxm/hQBqAclipV54=
+
+Name: assets/messages/actors/actors_vi.properties
+SHA1-Digest: NNYHMijbvJHrawpOC1vxYI3TYnY=
+
+Name: assets/messages/actors/actors_zh.properties
+SHA1-Digest: uTOd/VM4pCmeFZcAsunhPikgUTo=
+
+Name: assets/messages/items/items.properties
+SHA1-Digest: /5YpXlXsyV39bs8agAC4pCAWQ5U=
+
+Name: assets/messages/items/items_be.properties
+SHA1-Digest: JH9zfp/m8JHF1A8Ys3LL3kLVPp8=
+
+Name: assets/messages/items/items_cs.properties
+SHA1-Digest: 8ho140NjOsPeF1SsyuOXAK35YzA=
+
+Name: assets/messages/items/items_de.properties
+SHA1-Digest: Q39iYxFZzcUUCmEs4U4wjoE9zbU=
+
+Name: assets/messages/items/items_el.properties
+SHA1-Digest: LQ9jUlJsyKwsfNKvnWb93UTYzsc=
+
+Name: assets/messages/items/items_es.properties
+SHA1-Digest: spBukKu3TE3VLCBTz/S0kFIsDAk=
+
+Name: assets/messages/items/items_fr.properties
+SHA1-Digest: m43rHjt9BmBodN5l/O1qIfW8x1Q=
+
+Name: assets/messages/items/items_hu.properties
+SHA1-Digest: qBJdQ11ZUEYweQbRdeASx/WxlUM=
+
+Name: assets/messages/items/items_in.properties
+SHA1-Digest: Qin8mj4PTlOp4y+n8JrDotaWI7c=
+
+Name: assets/messages/items/items_it.properties
+SHA1-Digest: oh7DdPiC3QrDlmGe6nznKQ2tzMI=
+
+Name: assets/messages/items/items_ja.properties
+SHA1-Digest: 1ibH76YCXFscb0sHT4nPHcTWegU=
+
+Name: assets/messages/items/items_ko.properties
+SHA1-Digest: N0QVesYv9pZOcpQ+EKu4lNIxN3o=
+
+Name: assets/messages/items/items_nl.properties
+SHA1-Digest: oRUWXNsscpgR3r+81zny4WU41QM=
+
+Name: assets/messages/items/items_pl.properties
+SHA1-Digest: SADg8BgK6jzkuUgREdl+yVh+juA=
+
+Name: assets/messages/items/items_pt.properties
+SHA1-Digest: TmDf4jd4CzOACi34NwpDJolMleA=
+
+Name: assets/messages/items/items_ru.properties
+SHA1-Digest: p0MQ125it6MWZKLcj1ZNXn7JgdA=
+
+Name: assets/messages/items/items_tr.properties
+SHA1-Digest: TGEyOtGwpTv5NKB3JmP04kRT1NQ=
+
+Name: assets/messages/items/items_uk.properties
+SHA1-Digest: UAriYLodNZwGaIqCJJAls6RO4o8=
+
+Name: assets/messages/items/items_vi.properties
+SHA1-Digest: w1+oTWhi11S1BXWCx377J201rto=
+
+Name: assets/messages/items/items_zh.properties
+SHA1-Digest: petkDhZbDuifd+vt8JoxkkRHV5w=
+
+Name: assets/messages/journal/journal.properties
+SHA1-Digest: UxnIvJWQsB90Z6iYS6Zv1yFJnHk=
+
+Name: assets/messages/journal/journal_be.properties
+SHA1-Digest: Qju5o3Miu7bpNcrcrGrPb0w70Ks=
+
+Name: assets/messages/journal/journal_cs.properties
+SHA1-Digest: Oks1OzGonrXzSWDgDgQwdoIXuTM=
+
+Name: assets/messages/journal/journal_de.properties
+SHA1-Digest: IzTLbz9fq8xnz8O8+Yw63nav47k=
+
+Name: assets/messages/journal/journal_el.properties
+SHA1-Digest: Zq5odnoNMxE5vzCH55j0OXC3sCU=
+
+Name: assets/messages/journal/journal_es.properties
+SHA1-Digest: 0KYpc2B36qTXWg/S1dTT2LVb+cE=
+
+Name: assets/messages/journal/journal_fr.properties
+SHA1-Digest: GauzL9FBxI5NEf7ZBfWfi6+GQa4=
+
+Name: assets/messages/journal/journal_hu.properties
+SHA1-Digest: ySUsylMwYHC6fmetMB/PHHtKhDs=
+
+Name: assets/messages/journal/journal_in.properties
+SHA1-Digest: kpa60A2pwhzTeojhPyBcM1nt/qU=
+
+Name: assets/messages/journal/journal_it.properties
+SHA1-Digest: +AzFh4Bm2/3Oa4KTK5zOKJRBkWE=
+
+Name: assets/messages/journal/journal_ja.properties
+SHA1-Digest: FG7ZjDxqT56FQz0PXe7qKddYvTE=
+
+Name: assets/messages/journal/journal_ko.properties
+SHA1-Digest: 9TKd2z2HlY6WUmFJJAOhggaJk/k=
+
+Name: assets/messages/journal/journal_nl.properties
+SHA1-Digest: 8B9Ob/wj+K4s6ghlVke3SNURl2w=
+
+Name: assets/messages/journal/journal_pl.properties
+SHA1-Digest: irn2+Nrg44F14N0g0p2gtwec0IA=
+
+Name: assets/messages/journal/journal_pt.properties
+SHA1-Digest: a6PkUdFi3mr5CjSQiAEg2RRyULA=
+
+Name: assets/messages/journal/journal_ru.properties
+SHA1-Digest: 7kjBbVzLvVkZmz1hN6Zt/+j+0o8=
+
+Name: assets/messages/journal/journal_tr.properties
+SHA1-Digest: 9PpXeabBd6IApwW0A3H48B5VKDs=
+
+Name: assets/messages/journal/journal_uk.properties
+SHA1-Digest: HUIyOliALtn6nLyrBRtDDOVs0ts=
+
+Name: assets/messages/journal/journal_vi.properties
+SHA1-Digest: 1xx6Me5cOGLzOR/UZwE7g15LBKI=
+
+Name: assets/messages/journal/journal_zh.properties
+SHA1-Digest: 1OJov9vgBHMdJ0VTfwgEvgutE/c=
+
+Name: assets/messages/levels/levels.properties
+SHA1-Digest: 4eqHkkLFGrYUnmDF9aynj6EU5/4=
+
+Name: assets/messages/levels/levels_be.properties
+SHA1-Digest: ZS7dKDN9YGhIXAF3mTOAEhgebvQ=
+
+Name: assets/messages/levels/levels_cs.properties
+SHA1-Digest: 6yfk0+rqEXohwUku4kD9d/iE0kY=
+
+Name: assets/messages/levels/levels_de.properties
+SHA1-Digest: c5eTPz90DsV6L39onL2RrZaQSf4=
+
+Name: assets/messages/levels/levels_el.properties
+SHA1-Digest: 0t2ap5RiSaZi2uXHzeRXmxjqWWc=
+
+Name: assets/messages/levels/levels_es.properties
+SHA1-Digest: AjVsruLEUIN/2/bhsjXMZNkRQeM=
+
+Name: assets/messages/levels/levels_fr.properties
+SHA1-Digest: RnOxFj6MqAuuOE4uOjc41EytoEs=
+
+Name: assets/messages/levels/levels_hu.properties
+SHA1-Digest: 8OA+LcdeSgxYWeuu/2QB3whXV2g=
+
+Name: assets/messages/levels/levels_in.properties
+SHA1-Digest: XPfe+vJaYM8pLNQgdS/krc9vv7s=
+
+Name: assets/messages/levels/levels_it.properties
+SHA1-Digest: VTsZd9J+xc30npfqt3LLvpFkSuM=
+
+Name: assets/messages/levels/levels_ja.properties
+SHA1-Digest: NqSYCVNXI1zueebXDi/ZKBLLJcg=
+
+Name: assets/messages/levels/levels_ko.properties
+SHA1-Digest: 9Hnvdqg8PH9Isrk8tJEc3Lc6f8E=
+
+Name: assets/messages/levels/levels_nl.properties
+SHA1-Digest: bXlP+8B18ZoIpV/c+I3c4HWDGkA=
+
+Name: assets/messages/levels/levels_pl.properties
+SHA1-Digest: CdHiL1U5qU3FZr4hZ0uhgLEqvgY=
+
+Name: assets/messages/levels/levels_pt.properties
+SHA1-Digest: Pz5T/ISb+Vr3bSTlRtPSn94/W4A=
+
+Name: assets/messages/levels/levels_ru.properties
+SHA1-Digest: FgE74HMcHhmBRbW008noVk1m1Vs=
+
+Name: assets/messages/levels/levels_tr.properties
+SHA1-Digest: wdGEY16ZkwSzwv+Ol/mSWPX6Pzw=
+
+Name: assets/messages/levels/levels_uk.properties
+SHA1-Digest: 5QHAlCg71QEps6mBEZzfE83ycIs=
+
+Name: assets/messages/levels/levels_vi.properties
+SHA1-Digest: bTCUbK54HfsIjvg6Ii2pZYl4nO8=
+
+Name: assets/messages/levels/levels_zh.properties
+SHA1-Digest: 6Gx2UiPQGJAB0x4ZAbiI6VY9zVw=
+
+Name: assets/messages/misc/misc.properties
+SHA1-Digest: V3oU+NHKHUq427jZ3+XRGrIZIOY=
+
+Name: assets/messages/misc/misc_be.properties
+SHA1-Digest: EasRmlnW9qeDBdFeiy6BClWWago=
+
+Name: assets/messages/misc/misc_cs.properties
+SHA1-Digest: 58qjdjIrP2JbMgvEys1Xa24PGOQ=
+
+Name: assets/messages/misc/misc_de.properties
+SHA1-Digest: 4qQVWsJn9uPVudCAjti5C7gB9xA=
+
+Name: assets/messages/misc/misc_el.properties
+SHA1-Digest: NTbeIz34i2GaHvF9nZKL1PMh0gs=
+
+Name: assets/messages/misc/misc_es.properties
+SHA1-Digest: s8iqIpJmlbteNvAz3z14bx9M4N8=
+
+Name: assets/messages/misc/misc_fr.properties
+SHA1-Digest: VpMHkxNfubQ9vyxfFEY1z+lv35Y=
+
+Name: assets/messages/misc/misc_hu.properties
+SHA1-Digest: eQ+cYXiAuT99PdflrtZVJv+1Aho=
+
+Name: assets/messages/misc/misc_in.properties
+SHA1-Digest: cgLnDfKzc/R6oGAl/IOMaHPLbhY=
+
+Name: assets/messages/misc/misc_it.properties
+SHA1-Digest: L2AgsGt5heaSAY/mxm+XB49TMOs=
+
+Name: assets/messages/misc/misc_ja.properties
+SHA1-Digest: WPWC3G6s7Xf6Gz/sSWZcSbF33Zk=
+
+Name: assets/messages/misc/misc_ko.properties
+SHA1-Digest: TzqnqTGTlswJt65kR5ScHX+prxU=
+
+Name: assets/messages/misc/misc_nl.properties
+SHA1-Digest: MvbKKEQaNQ035VH5rJQhuNmEqBo=
+
+Name: assets/messages/misc/misc_pl.properties
+SHA1-Digest: E8y/1AD2sP8OdhYEG52sRlkEeL0=
+
+Name: assets/messages/misc/misc_pt.properties
+SHA1-Digest: r+a1yfF735yyfELDn7GP6T/Ikfo=
+
+Name: assets/messages/misc/misc_ru.properties
+SHA1-Digest: nb5Ik/z02vXTvNvP4KcJEgyB+e4=
+
+Name: assets/messages/misc/misc_tr.properties
+SHA1-Digest: Nd+7/w0kHU/oR3FdGUgdL1yVsME=
+
+Name: assets/messages/misc/misc_uk.properties
+SHA1-Digest: 3GyAc+ff6+hH6s+mnsPba1O+Uu0=
+
+Name: assets/messages/misc/misc_vi.properties
+SHA1-Digest: i203LIGInNRdrLMeu5NGK6R24cI=
+
+Name: assets/messages/misc/misc_zh.properties
+SHA1-Digest: C/UJc4z77YvSAZPs97FrITox7r0=
+
+Name: assets/messages/plants/plants.properties
+SHA1-Digest: j05Lp0lC5J5A11Y5I4O3PDFJhkA=
+
+Name: assets/messages/plants/plants_be.properties
+SHA1-Digest: +AEGa+7/wq8bTohOVXu73RL26/4=
+
+Name: assets/messages/plants/plants_cs.properties
+SHA1-Digest: wbedJT7k+AciXshTRdQvlIfXy2E=
+
+Name: assets/messages/plants/plants_de.properties
+SHA1-Digest: lcCWyze3FkrmsYzpvRrYE0vMfqk=
+
+Name: assets/messages/plants/plants_el.properties
+SHA1-Digest: 7DPxhgNulnhVIBmD0bPwGTmTcB4=
+
+Name: assets/messages/plants/plants_es.properties
+SHA1-Digest: tqgA0layK9AEi5jqXHsIT/pPCto=
+
+Name: assets/messages/plants/plants_fr.properties
+SHA1-Digest: gtTfoH7D77lWNGmSRmor3s/Wf2U=
+
+Name: assets/messages/plants/plants_hu.properties
+SHA1-Digest: +3Uwbe2CoeVLyS02cJZHGVaiOVE=
+
+Name: assets/messages/plants/plants_in.properties
+SHA1-Digest: SmlSUDlyZ1LM0zrZkxr0FtELOrk=
+
+Name: assets/messages/plants/plants_it.properties
+SHA1-Digest: wSb1Flw0xc6peJVGU28MrkQsNB0=
+
+Name: assets/messages/plants/plants_ja.properties
+SHA1-Digest: q1m+RSIV+WoEs1sqdYrIjziBKMo=
+
+Name: assets/messages/plants/plants_ko.properties
+SHA1-Digest: sOcI/PdNOVTO4t+nT78mlVTG1qc=
+
+Name: assets/messages/plants/plants_nl.properties
+SHA1-Digest: e6RipD5uiS8OfzInZt+KddwAuKA=
+
+Name: assets/messages/plants/plants_pl.properties
+SHA1-Digest: pV1kqA/VxkbNkkhZpv+tKh1Klp0=
+
+Name: assets/messages/plants/plants_pt.properties
+SHA1-Digest: pTmtE+xtkD2Yoa5RverQ0pxGKo4=
+
+Name: assets/messages/plants/plants_ru.properties
+SHA1-Digest: /GX1BNg26zqBbIbFP4rh8VPDEqw=
+
+Name: assets/messages/plants/plants_tr.properties
+SHA1-Digest: i5NosLPS/CM0vQhWI6YuWuVFOac=
+
+Name: assets/messages/plants/plants_uk.properties
+SHA1-Digest: Tpsn94ojPqo5EmvKrQit+/oNY+k=
+
+Name: assets/messages/plants/plants_vi.properties
+SHA1-Digest: bUDe0oBBOWRCoFnwWA/IT1uMaPI=
+
+Name: assets/messages/plants/plants_zh.properties
+SHA1-Digest: xxA/zhiHlrWcYhvZY2S/E5zE69s=
+
+Name: assets/messages/private/private_be.properties
+SHA1-Digest: OgwkHxRj9ewzWZx4BUkZ/5w2STs=
+
+Name: assets/messages/scenes/scenes.properties
+SHA1-Digest: Qssd/3LAqheWHwHMP+Nmv8VFA00=
+
+Name: assets/messages/scenes/scenes_be.properties
+SHA1-Digest: JLsgKBd78zNUFIYX3Yb1+cYcmHk=
+
+Name: assets/messages/scenes/scenes_cs.properties
+SHA1-Digest: GHKx7FI7L6hmYLr7KjF/B30BSU4=
+
+Name: assets/messages/scenes/scenes_de.properties
+SHA1-Digest: Lxgz7C+jI+XNwyLS/5Ga/eqNb70=
+
+Name: assets/messages/scenes/scenes_el.properties
+SHA1-Digest: qUcZyDqJZFP3Gkve0tQlixQbe5w=
+
+Name: assets/messages/scenes/scenes_es.properties
+SHA1-Digest: uC1UykjT+Soz8mh3z3lQObRHY8M=
+
+Name: assets/messages/scenes/scenes_fr.properties
+SHA1-Digest: N8x29H0MAetXQgidZWomz9BWm1Y=
+
+Name: assets/messages/scenes/scenes_hu.properties
+SHA1-Digest: 2qLp/5jGfYSiYfh0u08E6caEfnQ=
+
+Name: assets/messages/scenes/scenes_in.properties
+SHA1-Digest: gs9pNqlxR8PO2pfHGEh3B2Ne0AE=
+
+Name: assets/messages/scenes/scenes_it.properties
+SHA1-Digest: cZh0SK8Rrmh2GBwZddN1YDLPveY=
+
+Name: assets/messages/scenes/scenes_ja.properties
+SHA1-Digest: DkDlUd0lKveu0ABTITGRVqzogm4=
+
+Name: assets/messages/scenes/scenes_ko.properties
+SHA1-Digest: 3jIkTfFUxPKkvrL3fspMdd+YA/A=
+
+Name: assets/messages/scenes/scenes_nl.properties
+SHA1-Digest: dMf66uZ8wF1NcuaAKKbyviM2rGI=
+
+Name: assets/messages/scenes/scenes_pl.properties
+SHA1-Digest: cznsJcoUHXTtuKABFIpQcMI6llE=
+
+Name: assets/messages/scenes/scenes_pt.properties
+SHA1-Digest: QrjE6UeLC8nMCsUnCgI2P5/hMLE=
+
+Name: assets/messages/scenes/scenes_ru.properties
+SHA1-Digest: okaz/u7emLlE2Tt3nqctADg+1tQ=
+
+Name: assets/messages/scenes/scenes_tr.properties
+SHA1-Digest: NoVrH5Sb2IciE1YicHjBZfnF+GM=
+
+Name: assets/messages/scenes/scenes_uk.properties
+SHA1-Digest: 6K9rIaxrR8KWgzGfg9NxgEaLfvc=
+
+Name: assets/messages/scenes/scenes_vi.properties
+SHA1-Digest: KrUb7/L22q269Qy1mMieH3LrW8U=
+
+Name: assets/messages/scenes/scenes_zh.properties
+SHA1-Digest: VJIAdtGbsdBgnKlomzB4IGTkqkY=
+
+Name: assets/messages/ui/ui.properties
+SHA1-Digest: +Z84OB9Y/At13A1RJUOo9YNpN2Q=
+
+Name: assets/messages/ui/ui_be.properties
+SHA1-Digest: jvyGeanab06yKxTH51hh7S36u9Y=
+
+Name: assets/messages/ui/ui_cs.properties
+SHA1-Digest: xKqAN100tilv+cEG1gfk1NDsqYg=
+
+Name: assets/messages/ui/ui_de.properties
+SHA1-Digest: vYsCVep65WMptC0zw7tW7qJ0t3c=
+
+Name: assets/messages/ui/ui_el.properties
+SHA1-Digest: rX7QtAJptcjzIhank5VBAI0UxCY=
+
+Name: assets/messages/ui/ui_es.properties
+SHA1-Digest: 3nqE1Jl19fpWiwUPxuV/gmJPp/o=
+
+Name: assets/messages/ui/ui_fr.properties
+SHA1-Digest: Au0/XaxmfT8VSn1A93v2CUj4EMc=
+
+Name: assets/messages/ui/ui_hu.properties
+SHA1-Digest: bY3cXT7icizgKU9O67wg1S62PiE=
+
+Name: assets/messages/ui/ui_in.properties
+SHA1-Digest: Z9EaHroMuhCVQA6pFEZPho7gXDg=
+
+Name: assets/messages/ui/ui_it.properties
+SHA1-Digest: uuVPPuKAWN3btYVdbNkXs+PSxqU=
+
+Name: assets/messages/ui/ui_ja.properties
+SHA1-Digest: zLWIHns5Wp2ifkczDIZ1V6tk+4E=
+
+Name: assets/messages/ui/ui_ko.properties
+SHA1-Digest: 6vEY7nDiGxVlzFsCMfa/ftpf1gY=
+
+Name: assets/messages/ui/ui_nl.properties
+SHA1-Digest: lluPSvtibnT0UDe/eESDRVjAv5I=
+
+Name: assets/messages/ui/ui_pl.properties
+SHA1-Digest: EKlVhyEY3sK/KBtinGWGQM7sAOY=
+
+Name: assets/messages/ui/ui_pt.properties
+SHA1-Digest: M9CQIS7pCDu+ZlDaY70UUPjKMpw=
+
+Name: assets/messages/ui/ui_ru.properties
+SHA1-Digest: gWnWgikCkgw4n87MHqfRkcfP6CM=
+
+Name: assets/messages/ui/ui_tr.properties
+SHA1-Digest: y3oSKQA2jImHtWz8GDzwpMqG0oE=
+
+Name: assets/messages/ui/ui_uk.properties
+SHA1-Digest: nLll8nwbO4+2pTqltzRcYNWn6Zk=
+
+Name: assets/messages/ui/ui_vi.properties
+SHA1-Digest: tncyqNMYlsFoCWDDqq6nuoCYUAs=
+
+Name: assets/messages/ui/ui_zh.properties
+SHA1-Digest: A5ZkxeC5Mw2nTnmziugo3OBpybg=
+
+Name: assets/messages/windows/windows.properties
+SHA1-Digest: l7aL2w+d3bn+a1ulOtRbMfrn2WQ=
+
+Name: assets/messages/windows/windows_be.properties
+SHA1-Digest: g9uNRdS4tRdntgUDSLriOlXfs7U=
+
+Name: assets/messages/windows/windows_cs.properties
+SHA1-Digest: uy9JJjVXFMzbyrTpQIxZO6BEoTM=
+
+Name: assets/messages/windows/windows_de.properties
+SHA1-Digest: PeQSiaXORHZv6Lyl4hewnp+raSo=
+
+Name: assets/messages/windows/windows_el.properties
+SHA1-Digest: Ni+vHyYqs8yj/l8iWt4Oa6N4yao=
+
+Name: assets/messages/windows/windows_es.properties
+SHA1-Digest: ESGowyhkLlzgbxaI7g0jd5WFUOI=
+
+Name: assets/messages/windows/windows_fr.properties
+SHA1-Digest: s3KelrtvjGMzIv+XlniciEe/vls=
+
+Name: assets/messages/windows/windows_hu.properties
+SHA1-Digest: Y8eoKA3HAAKxBc1fy6JjcQimVJI=
+
+Name: assets/messages/windows/windows_in.properties
+SHA1-Digest: MeKbHZnLcF/b7QNNiEes2uQs/OY=
+
+Name: assets/messages/windows/windows_it.properties
+SHA1-Digest: BGkSh8SFF44w5g0Zy5+NxuVtmAc=
+
+Name: assets/messages/windows/windows_ja.properties
+SHA1-Digest: hb2ERB9DFZAsSXZewMYgmuKpzZ8=
+
+Name: assets/messages/windows/windows_ko.properties
+SHA1-Digest: uEfuuHa7iHD69yFz8TXT/mms+po=
+
+Name: assets/messages/windows/windows_nl.properties
+SHA1-Digest: 9Bmu0Vh5e6r+WGSRiRXE7x/fcG8=
+
+Name: assets/messages/windows/windows_pl.properties
+SHA1-Digest: FgU4lHOUtzrRbmIiwSGxTNYXwQo=
+
+Name: assets/messages/windows/windows_pt.properties
+SHA1-Digest: 3X4/IGrpXTXYGQjZKc/t4IcqB4A=
+
+Name: assets/messages/windows/windows_ru.properties
+SHA1-Digest: +lZbMnhtGj0lhZ+KpZMgd+kao48=
+
+Name: assets/messages/windows/windows_tr.properties
+SHA1-Digest: 2lp7DYCiaTNnnXBhJC922GAGG9c=
+
+Name: assets/messages/windows/windows_uk.properties
+SHA1-Digest: FgAh6R0ZgGtwIbAJ3UvjtdLH6uA=
+
+Name: assets/messages/windows/windows_vi.properties
+SHA1-Digest: OPEVkanJCh9yP1kqI7s+ZUP/06o=
+
+Name: assets/messages/windows/windows_zh.properties
+SHA1-Digest: 7/4AMhFLQJiOVLYGuuMpfsxlo2I=
+
+Name: assets/music/caves_1.ogg
+SHA1-Digest: 5UkFkR1uS3IkJBF1FAGnYyPCmM0=
+
+Name: assets/music/caves_2.ogg
+SHA1-Digest: c0vdNPdff4H12eIjfDlsw/UlJ4Q=
+
+Name: assets/music/caves_3.ogg
+SHA1-Digest: 8F9ZCnEou27RACDbLRx+b7xyXwk=
+
+Name: assets/music/caves_boss.ogg
+SHA1-Digest: kH+mZ0jk/Frd0XMpxPH2W+NuMM8=
+
+Name: assets/music/caves_boss_finale.ogg
+SHA1-Digest: W46ILeS9qBK9cJQG60C9cT6KN14=
+
+Name: assets/music/caves_tense.ogg
+SHA1-Digest: Oyqt8fcakhauVt7BvdQeIHqzri8=
+
+Name: assets/music/city_1.ogg
+SHA1-Digest: 8haMTda2tm2vuEkXPPGsyCMb2gc=
+
+Name: assets/music/city_2.ogg
+SHA1-Digest: Jafp4m1klCuzuniCtdFQ8HwYQUE=
+
+Name: assets/music/city_3.ogg
+SHA1-Digest: 2RO+PbRWpVreXR+mOTFjYsNpJn4=
+
+Name: assets/music/city_boss.ogg
+SHA1-Digest: xx2HH18UTf4SX8IKxwaHdGIfj3U=
+
+Name: assets/music/city_boss_finale.ogg
+SHA1-Digest: /pFN9pz2hfVn8UxeUpxdkjFE6u4=
+
+Name: assets/music/city_tense.ogg
+SHA1-Digest: tSHyceG1qMdywwZidVxAXl6cGaM=
+
+Name: assets/music/halls_1.ogg
+SHA1-Digest: Ka8bfboHNbZoyX3rwnsCbDRE6jA=
+
+Name: assets/music/halls_2.ogg
+SHA1-Digest: JIqum9Rc7C+p175SrS97asv2pmg=
+
+Name: assets/music/halls_3.ogg
+SHA1-Digest: 8VOymG/Z+BY0c2EnyCJgToL6LcY=
+
+Name: assets/music/halls_boss.ogg
+SHA1-Digest: 7bxfNC3yZH2ik0GZVjNHHqRsxc4=
+
+Name: assets/music/halls_boss_finale.ogg
+SHA1-Digest: m1KTX3rlwLTKB0+OUOc3wwIbmLg=
+
+Name: assets/music/halls_tense.ogg
+SHA1-Digest: Di0gyjKMysSixiSj7A7aD/gQMlc=
+
+Name: assets/music/prison_1.ogg
+SHA1-Digest: udrYDCgtZbALgvYAQI+ARQLVjMk=
+
+Name: assets/music/prison_2.ogg
+SHA1-Digest: EATHQhsqRT48g9JTTEMeBBcBUc0=
+
+Name: assets/music/prison_3.ogg
+SHA1-Digest: o4lFuV9iCOcjQBT9V3y2f5ymhw0=
+
+Name: assets/music/prison_boss.ogg
+SHA1-Digest: fSTf5/q6TDCQMGjdNTipVdMGwEk=
+
+Name: assets/music/prison_tense.ogg
+SHA1-Digest: cnbpx1X9zrYy7ngToQFJrXKdKt0=
+
+Name: assets/music/sewers_1.ogg
+SHA1-Digest: KvNO+AQ4b32UvCCwReif4EU1ozw=
+
+Name: assets/music/sewers_2.ogg
+SHA1-Digest: sc9lFqTHatVqdhOIcy9vJiLgJso=
+
+Name: assets/music/sewers_3.ogg
+SHA1-Digest: arrsxAcryHNV8bzPyEOlDuEg5Ig=
+
+Name: assets/music/sewers_boss.ogg
+SHA1-Digest: VLpdE1S10Bl0KmzMZykb2TQCMnw=
+
+Name: assets/music/sewers_tense.ogg
+SHA1-Digest: 86GT3bjxPASjWVjVDC4ht1HYrRg=
+
+Name: assets/music/theme_1.ogg
+SHA1-Digest: c6oGj0YlHmbOT/JyYAbGLkRfe+Q=
+
+Name: assets/music/theme_2.ogg
+SHA1-Digest: squO+glYz6DJCc4xxKKjGy9Jc9U=
+
+Name: assets/music/theme_finale.ogg
+SHA1-Digest: A/nIOiqaflOnvo4ZayNYA4H2Jjs=
+
+Name: assets/sounds/alert.mp3
+SHA1-Digest: FPlYtZWmx8niKIBIB0iCnnLjWp4=
+
+Name: assets/sounds/atk_crossbow.mp3
+SHA1-Digest: Rh1b8Y72dLtTt7tELemdiVHGf74=
+
+Name: assets/sounds/atk_spiritbow.mp3
+SHA1-Digest: NflkUfZiRY6ChANBcRRspXciT4E=
+
+Name: assets/sounds/badge.mp3
+SHA1-Digest: wCx1g94SplZhAp6B0bnbf7ft+Fg=
+
+Name: assets/sounds/beacon.mp3
+SHA1-Digest: 0eJGpVBFotv1vvC3Z+x8dXJPF/Q=
+
+Name: assets/sounds/bee.mp3
+SHA1-Digest: fszhsgLEVycj3oSuoiXEz49Dlog=
+
+Name: assets/sounds/blast.mp3
+SHA1-Digest: K9bq4KZfTe9xIcQPw6icawIZSvA=
+
+Name: assets/sounds/bones.mp3
+SHA1-Digest: CpgVHDi37l9/P+b7rVRNWwRZR1w=
+
+Name: assets/sounds/boss.mp3
+SHA1-Digest: qkUjPwckg4+wOQ8X8tm4ZZCD8ws=
+
+Name: assets/sounds/burning.mp3
+SHA1-Digest: jg0H2gb8u+0v/xsji8IgR8xPWYc=
+
+Name: assets/sounds/chains.mp3
+SHA1-Digest: p2icRTVVQv+o/E3YVVrR0dRk8cI=
+
+Name: assets/sounds/challenge.mp3
+SHA1-Digest: dWFoLcI7ZcenS59KOf3ecolb8ck=
+
+Name: assets/sounds/chargeup.mp3
+SHA1-Digest: aYr4V5qW4HDXUT3yEFGzQUf/6rg=
+
+Name: assets/sounds/charms.mp3
+SHA1-Digest: Ivmqn7M6rg1Pvlb8mvVNVpg6Rvw=
+
+Name: assets/sounds/click.mp3
+SHA1-Digest: ciJuqciRGBDZnLdlsClAUGjJsGE=
+
+Name: assets/sounds/cursed.mp3
+SHA1-Digest: BPhnNvuCAcf9nNgyogpKxodh8B0=
+
+Name: assets/sounds/death.mp3
+SHA1-Digest: 7Ky4qBxvdG4oq48lvdpsvHf3rBw=
+
+Name: assets/sounds/debuff.mp3
+SHA1-Digest: iqsjJuu5JpXlfFY1UGJOZnq8VNE=
+
+Name: assets/sounds/degrade.mp3
+SHA1-Digest: JAsKRyom4ECrmaFhDaQ9cH8VRzY=
+
+Name: assets/sounds/descend.mp3
+SHA1-Digest: w2P4pr2G67SEdYK2w7QpIIbCgKE=
+
+Name: assets/sounds/dewdrop.mp3
+SHA1-Digest: dNgbbxulZSz1d0gmHTbRwDz3Am0=
+
+Name: assets/sounds/door_open.mp3
+SHA1-Digest: CgssCSMHwYZ8ABHo0oEMYGdVM/M=
+
+Name: assets/sounds/drink.mp3
+SHA1-Digest: A5wuqFBFhWdkgrwPqpfqlQY0esA=
+
+Name: assets/sounds/eat.mp3
+SHA1-Digest: vEpSu6vQOEDJpRD+rnUMJ18NmAY=
+
+Name: assets/sounds/evoke.mp3
+SHA1-Digest: /NJX4psfOG4spfERPeSuGTOJcPw=
+
+Name: assets/sounds/falling.mp3
+SHA1-Digest: kqZuBhrZPQSYg40H3GGztXXHtf4=
+
+Name: assets/sounds/gas.mp3
+SHA1-Digest: hMzsVdOqUmnJr0G8Y760fiEdHis=
+
+Name: assets/sounds/ghost.mp3
+SHA1-Digest: dXGUmgW93Tnf18zvt+EtL9oZtq4=
+
+Name: assets/sounds/gold.mp3
+SHA1-Digest: ZDXWkphmyoCv7XrBes6ParSedp8=
+
+Name: assets/sounds/grass.mp3
+SHA1-Digest: cvetVjhts8/7PNtQK9f+kriOqyA=
+
+Name: assets/sounds/health_critical.mp3
+SHA1-Digest: oyfZGKawV5YI8OKgIJjHboSrKjg=
+
+Name: assets/sounds/health_warn.mp3
+SHA1-Digest: y7QDZhLTsBjgqjVo3svGI+xb9v4=
+
+Name: assets/sounds/hit.mp3
+SHA1-Digest: vRPMcB5hRpbOhrmWCsSijoL+bjM=
+
+Name: assets/sounds/hit_arrow.mp3
+SHA1-Digest: uvpnArKqvHiXNfXyh7hTsdCjNMY=
+
+Name: assets/sounds/hit_crush.mp3
+SHA1-Digest: OyYlXyFSPuL27KgJ07qu0sKWg10=
+
+Name: assets/sounds/hit_magic.mp3
+SHA1-Digest: BXneHzTUv20i3iBcrE3LBi6Y/uw=
+
+Name: assets/sounds/hit_parry.mp3
+SHA1-Digest: 5zN1ExHuXKQPzS0xvpF/m8/gVmY=
+
+Name: assets/sounds/hit_slash.mp3
+SHA1-Digest: 7Q9sGXHqd4CnnDpnTgzVrI6s9FM=
+
+Name: assets/sounds/hit_stab.mp3
+SHA1-Digest: 8tFzCBL+7nD19oBGBaLKDDF8i+8=
+
+Name: assets/sounds/hit_strong.mp3
+SHA1-Digest: 1iAxCeUrP3xPQNYzb89uwT3SCxs=
+
+Name: assets/sounds/item.mp3
+SHA1-Digest: CEvhz0aHB94BhWFzQ0Xr4QJ5wU8=
+
+Name: assets/sounds/levelup.mp3
+SHA1-Digest: ZmRJMxmxyIe0396SjH1O4Dl5QtI=
+
+Name: assets/sounds/lightning.mp3
+SHA1-Digest: jEjPm2qbZTtz2kdCwA2KObf80Ds=
+
+Name: assets/sounds/lullaby.mp3
+SHA1-Digest: GtUOZMVnkY0UppeMOkQe3GcZrO8=
+
+Name: assets/sounds/mastery.mp3
+SHA1-Digest: CLqCK9e4u1M8FPlHKEKpQ7qw/xA=
+
+Name: assets/sounds/meld.mp3
+SHA1-Digest: oZMUS8y4UGGWzM8jAoRpRrvWdLk=
+
+Name: assets/sounds/mimic.mp3
+SHA1-Digest: JcXeYMc8ljCyLHSZ9R/lFLImzLY=
+
+Name: assets/sounds/mine.mp3
+SHA1-Digest: m6pEKDxBgzWC8BGZbc9NS9X58cM=
+
+Name: assets/sounds/miss.mp3
+SHA1-Digest: erHg7XuUV19fBKEQmhOOh0W6yJc=
+
+Name: assets/sounds/plant.mp3
+SHA1-Digest: KZtBzvz1JoviWdEnNrUICUqm8j8=
+
+Name: assets/sounds/puff.mp3
+SHA1-Digest: 70j7/RehHo/6ACbv9GT4OHvFXgE=
+
+Name: assets/sounds/ray.mp3
+SHA1-Digest: QMG/UFU786EjGqQ80gxV1PzlMT4=
+
+Name: assets/sounds/read.mp3
+SHA1-Digest: YO7z51Latgq9CW2FW7iKrY0XK2U=
+
+Name: assets/sounds/rocks.mp3
+SHA1-Digest: jz7BEfgM66+BKW/hw1mCavGEKWw=
+
+Name: assets/sounds/scan.mp3
+SHA1-Digest: l2hUSg6uYIslxMO4RGj9DMVlRMw=
+
+Name: assets/sounds/secret.mp3
+SHA1-Digest: KcnQ4Dpgak+0Xz2QeocQSINTrAU=
+
+Name: assets/sounds/shatter.mp3
+SHA1-Digest: Y6xIKwKTHUP6iX+PDkWCEXdE0gQ=
+
+Name: assets/sounds/sheep.mp3
+SHA1-Digest: my9uSBVdgks4VKQWsGc5JcKWWcc=
+
+Name: assets/sounds/step.mp3
+SHA1-Digest: wdf7zxBtb1D7ymlYxHlHuf3kPKA=
+
+Name: assets/sounds/sturdy.mp3
+SHA1-Digest: 0zzkLnVjqzRFlcww1iqmH9mJIFo=
+
+Name: assets/sounds/teleport.mp3
+SHA1-Digest: cl0MRqJpHcUFrv+HuP+PlOmfBXM=
+
+Name: assets/sounds/tomb.mp3
+SHA1-Digest: ZDRpOoyCOsmhyvWVoF9PFp6jKQo=
+
+Name: assets/sounds/trample.mp3
+SHA1-Digest: b6hNxRcN2DHsMNgztpanShh/jb4=
+
+Name: assets/sounds/trap.mp3
+SHA1-Digest: ToQrOuyklTuHsiE8YbWVXg7bN/8=
+
+Name: assets/sounds/unlock.mp3
+SHA1-Digest: ko5sHr7Y5UMPg/gQNldGxcUdDnQ=
+
+Name: assets/sounds/water.mp3
+SHA1-Digest: dENH4szZmEXfpq/VQuuDvlSP5GM=
+
+Name: assets/sounds/zap.mp3
+SHA1-Digest: m9K9v88quzIQHbjuDF+Jqc7pdUU=
+
+Name: assets/splashes/duelist.jpg
+SHA1-Digest: ROTX5MHQd3wtVY1QusJQTFiGdEo=
+
+Name: assets/splashes/huntress.jpg
+SHA1-Digest: jvIkGYVn93EiLNv+9NlnqEzktjs=
+
+Name: assets/splashes/mage.jpg
+SHA1-Digest: 0gzV3KZNsOITHKheyc0N7Bt86cc=
+
+Name: assets/splashes/rogue.jpg
+SHA1-Digest: BnsB2SdxX2obJOaMY/h/BTSvR58=
+
+Name: assets/splashes/warrior.jpg
+SHA1-Digest: ruSMSqx5exUwW2c+fbejawtFHfY=
+
+Name: assets/sprites/amulet.png
+SHA1-Digest: NfWr9en6ofWOejfgxxEh1IuUUHY=
+
+Name: assets/sprites/avatars.png
+SHA1-Digest: ySBj4rWfpjxToYgEDPu27CWv7Vc=
+
+Name: assets/sprites/bat.png
+SHA1-Digest: Nrn333jQY8JJZ4WdESemzG/IHKk=
+
+Name: assets/sprites/bee.png
+SHA1-Digest: 5teeYpgZrILFvHms3ro4QCaoeVc=
+
+Name: assets/sprites/blacksmith.png
+SHA1-Digest: 7n1OmWHjMJVaz09LwNyDVrw4htI=
+
+Name: assets/sprites/brute.png
+SHA1-Digest: MwHyApI/B4dlfSDGq3Ng8iKDElo=
+
+Name: assets/sprites/crab.png
+SHA1-Digest: 0dEghPB7Cme4BEqK0FrblXxCKdM=
+
+Name: assets/sprites/crystal_guardian.png
+SHA1-Digest: TZN4hANWtr4pDWAdnPEy0TjH2iY=
+
+Name: assets/sprites/crystal_spire.png
+SHA1-Digest: yfvCMB+WuOnpuzyJRbo8EwhBltM=
+
+Name: assets/sprites/crystal_wisp.png
+SHA1-Digest: GbByviLNNaYuTFeS2/dOaeqAvVQ=
+
+Name: assets/sprites/demon.png
+SHA1-Digest: YtiGOFMFjd+9fb3HXvBLIGiFyrg=
+
+Name: assets/sprites/dm100.png
+SHA1-Digest: zeVeS19/2qXg56aNaNabp+mzV8U=
+
+Name: assets/sprites/dm200.png
+SHA1-Digest: hD+pmA03T5aCS7mqvkj5FA1//rI=
+
+Name: assets/sprites/dm300.png
+SHA1-Digest: H6Tdg5m3Ept8OgzTnx3mVOCZaGU=
+
+Name: assets/sprites/duelist.png
+SHA1-Digest: i/qDOQYgtT6WbiCNp9BVRCZcLWQ=
+
+Name: assets/sprites/elemental.png
+SHA1-Digest: /v2AnOfdd3JmxedZKFsH76aWtkw=
+
+Name: assets/sprites/eye.png
+SHA1-Digest: 99DHKmSD1RIhcJuGHzZSMdLOh0I=
+
+Name: assets/sprites/fungal_core.png
+SHA1-Digest: GW3gX6wSZyJ1NUr+XgCQEFfIaIc=
+
+Name: assets/sprites/fungal_sentry.png
+SHA1-Digest: wq3a9ZXJYWdJ/eBx6RO1UeALgs8=
+
+Name: assets/sprites/fungal_spinner.png
+SHA1-Digest: eoFA7Qu2S9nYDTXdJjL/1/U2WCE=
+
+Name: assets/sprites/ghost.png
+SHA1-Digest: +sTmAxhEdk0qwdlyo6XgLIuyack=
+
+Name: assets/sprites/ghoul.png
+SHA1-Digest: 06f4h1lT+9miXmCEZoRX0FfK1wU=
+
+Name: assets/sprites/gnoll-export.png
+SHA1-Digest: SeAU+M1ulwPZFLikTBNaEJRF6l4=
+
+Name: assets/sprites/gnoll.png
+SHA1-Digest: /EVZ+96E1S/IfF2NClATYQ2IDV4=
+
+Name: assets/sprites/gnoll_geomancer.png
+SHA1-Digest: 4Pw4GfMvfFKHtCjpeFpn01kMssc=
+
+Name: assets/sprites/gnoll_guard.png
+SHA1-Digest: XLApEvSHBGp5ws+jDIWl/9bpwXs=
+
+Name: assets/sprites/gnoll_sapper.png
+SHA1-Digest: iOuWp7WB6noz7pUjAgbv+a+RDzQ=
+
+Name: assets/sprites/golem.png
+SHA1-Digest: 2fzDKyO6/xLTLBG1Je0kQ/8Dlho=
+
+Name: assets/sprites/goo.png
+SHA1-Digest: EkjbEQ0T9n7RXh1wgSAnbqi9amk=
+
+Name: assets/sprites/guard.png
+SHA1-Digest: S4vAfeyNwKOK8GozWycAMC3Fixk=
+
+Name: assets/sprites/guardian.png
+SHA1-Digest: WBVAQ7AKwih/VdkAua2cfhcV3+I=
+
+Name: assets/sprites/huntress.png
+SHA1-Digest: C1ipbw7ms5LLA/sqdFTqCHVVLBA=
+
+Name: assets/sprites/item_icons.png
+SHA1-Digest: RaymOXr9aN02iDGMw3XHd6mX/18=
+
+Name: assets/sprites/items.png
+SHA1-Digest: mFV5yltqof0tKgiXmK9rbpXHDP8=
+
+Name: assets/sprites/king.png
+SHA1-Digest: EDDy+9b3hFQjjFDwycv2QV0Mlpc=
+
+Name: assets/sprites/larva.png
+SHA1-Digest: z3Dc/0l75JL6u00BLTK1xR9YgyU=
+
+Name: assets/sprites/lotus.png
+SHA1-Digest: aN/CgaCzk2HfkBNZC59MVIvRSBQ=
+
+Name: assets/sprites/mage.png
+SHA1-Digest: 93+p/eX16tYPmrcNM6fioGyLo6s=
+
+Name: assets/sprites/mimic.png
+SHA1-Digest: qid8RBNoch8WNe8SYzybq7NfFeo=
+
+Name: assets/sprites/monk.png
+SHA1-Digest: IOVFkLrxYVkfNhQxFaQiOyM46Do=
+
+Name: assets/sprites/necromancer.png
+SHA1-Digest: dXV4YUcXVYT6biRR3UNaJD4TBQ0=
+
+Name: assets/sprites/ninja_log.png
+SHA1-Digest: g/PdS6IwpGB+M48/XiFwxUX1Opg=
+
+Name: assets/sprites/pet.png
+SHA1-Digest: 8LOL0IYZe6vSfzX/Ko83gjlsnzU=
+
+Name: assets/sprites/piranha.png
+SHA1-Digest: fGWvLupjUgMdHCEjmwOOGuP+VaE=
+
+Name: assets/sprites/pylon.png
+SHA1-Digest: ZPx2KQ3HtLKTWOtp1aeyoV2+pNI=
+
+Name: assets/sprites/rat.png
+SHA1-Digest: fubW4J23F2BsnmMyuDW2/MHwHv8=
+
+Name: assets/sprites/ratking.png
+SHA1-Digest: 186XA5oY4NpXVxpG4XxhFiEWe5w=
+
+Name: assets/sprites/red_sentry.png
+SHA1-Digest: oEnolL+cko52uTnnAX/Dyhe2eYs=
+
+Name: assets/sprites/ripper.png
+SHA1-Digest: wH9TYCfXOad8HMfpJ75/R9xNUXs=
+
+Name: assets/sprites/rogue.png
+SHA1-Digest: trTkhHpV5T9rt2pn+B6IrwPf17E=
+
+Name: assets/sprites/rot_heart.png
+SHA1-Digest: QkymE2jIKyO9hcO2lPWTKW4TiHg=
+
+Name: assets/sprites/rot_lasher.png
+SHA1-Digest: yL5k84go16jeH5ujB9MK8bgtV6U=
+
+Name: assets/sprites/scorpio.png
+SHA1-Digest: oehiOHKHhQ8vITvUYeIbS3v0dCQ=
+
+Name: assets/sprites/shaman.png
+SHA1-Digest: CD/c2nubAEoaSLzA6nebsh97fNM=
+
+Name: assets/sprites/sheep.png
+SHA1-Digest: vboUBJQT3eIqNuFaqN2Sc5XOXe0=
+
+Name: assets/sprites/shopkeeper.png
+SHA1-Digest: m6qf1XrxTQO1APRJnvt5OQ57cMM=
+
+Name: assets/sprites/skeleton.png
+SHA1-Digest: jyiveOpa2hCRmYbJyyljUDc1y0I=
+
+Name: assets/sprites/slime.png
+SHA1-Digest: IQ+GIvBJfwmkQbXiIHD2ZCUZvSE=
+
+Name: assets/sprites/snake.png
+SHA1-Digest: udLDx8hAY2VrwbE3+6diA2PoNAQ=
+
+Name: assets/sprites/spawner.png
+SHA1-Digest: zbXkeDsaaT7qnHxx/nD3RnQp+4w=
+
+Name: assets/sprites/spinner.png
+SHA1-Digest: xmvuw/oJWCVc8fak11SCfP2ZHmc=
+
+Name: assets/sprites/spirit_hawk.png
+SHA1-Digest: MT2gxLu++wTVmJqahKbTTzsYiIw=
+
+Name: assets/sprites/statue.png
+SHA1-Digest: IJYpB5yIgIhkRF+kjxq0SgOG/30=
+
+Name: assets/sprites/succubus.png
+SHA1-Digest: flpAq8xoRvaFJAVlJ232bRXhm8k=
+
+Name: assets/sprites/swarm.png
+SHA1-Digest: HaUpRExkVDwhubUBYBGOEW4GDlw=
+
+Name: assets/sprites/tengu.png
+SHA1-Digest: cm6VglEWiEIdbwfAO6JZQeehSRI=
+
+Name: assets/sprites/thief.png
+SHA1-Digest: hucnABcFviN8Z0ifvtvvyd3Qic4=
+
+Name: assets/sprites/undead.png
+SHA1-Digest: VcYtgyyyRIk8sKcma2uR6KdpMgI=
+
+Name: assets/sprites/wandmaker.png
+SHA1-Digest: yVUqmxfpcnvwgwpUiFIzkGEFlSc=
+
+Name: assets/sprites/wards.png
+SHA1-Digest: fk4MP2ImRpCXjTOEmEzt1vpV9Kw=
+
+Name: assets/sprites/warlock.png
+SHA1-Digest: p5i+qwS6NzNeUiLzacFOrSdOt+g=
+
+Name: assets/sprites/warrior.png
+SHA1-Digest: R+u7kIPN2kudL7ZM8UEvZgcXn9Q=
+
+Name: assets/sprites/wraith.png
+SHA1-Digest: 7tLvBygJzD5Pt+JG4nZwCf+TQto=
+
+Name: assets/sprites/yog.png
+SHA1-Digest: jo7lzkfwqIZwS8Qo1+JtAIfWuS4=
+
+Name: assets/sprites/yog_fists.png
+SHA1-Digest: ++A2OxZK93EgXwSE5Jph23f/rnY=
+
+Name: classes.dex
+SHA1-Digest: StZRVWSSDIXMj5q9lgtEPHvXhNc=
+
+Name: com/badlogic/gdx.gwt.xml
+SHA1-Digest: BCV1evoH/mGjBRI53cPMj7eEt6Q=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl
+SHA1-Digest: CsVjnYCg/m1yS296cxtsQwNbZdc=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl
+SHA1-Digest: U/aPRF6/IxmGZaT0BPsgBb27W+Y=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl
+SHA1-Digest: i/dBk2/nRr4qecWDHhcMViPL9JY=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl
+SHA1-Digest: 5+Mdz3BJsq3u5fKKGZHfsLhOmH8=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl
+SHA1-Digest: +SBLsSygPIj3Gw6gM/TDZ7gbFoA=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl
+SHA1-Digest: VD8VOgmtM44+F7ORuimVKZO0MHY=
+
+Name: com/badlogic/gdx/utils/JsonReader.rl
+SHA1-Digest: ih5HhcODQPmu9GANwZhSkbBxcx8=
+
+Name: com/badlogic/gdx/utils/XmlReader.rl
+SHA1-Digest: tJ3eD+YxbM9r9fdDdnLfxNn1s8Q=
+
+Name: com/badlogic/gdx/utils/lsans-15.fnt
+SHA1-Digest: rLgGRl1fNdB8hZdP+5pdhCr55N4=
+
+Name: com/badlogic/gdx/utils/lsans-15.png
+SHA1-Digest: wEj3b+ekYXW1vzqnfoa2ZhhQp4M=
+
+Name: lib/arm64-v8a/libgdx-freetype.so
+SHA1-Digest: ZqpIExeKByxf4qCSFg2HhIBdI3k=
+
+Name: lib/arm64-v8a/libgdx.so
+SHA1-Digest: lxTdsZqA4W/rHyBDgcBnKwRj678=
+
+Name: lib/armeabi-v7a/libgdx-freetype.so
+SHA1-Digest: Ay3p1mEyFaq9t/BW0ohd5fBQP0Q=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: fNqjeBRLkhN/dH0lHq8ZOJ4wLLo=
+
+Name: lib/x86/libgdx-freetype.so
+SHA1-Digest: ZtuU0akKNJtbFhtkDlJ8KeoA2VA=
+
+Name: lib/x86/libgdx.so
+SHA1-Digest: MywCB01QSqFa5ZzWEfxXB/vF/Ck=
+
+Name: lib/x86_64/libgdx-freetype.so
+SHA1-Digest: donPrhy2lfSlf1/GARt7C85GggM=
+
+Name: lib/x86_64/libgdx.so
+SHA1-Digest: MxuwDONxKeh/f0eb/oVri94EfTQ=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: uu5BSVINKANfgx5LfbF3zziLxjQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: Thx6POj5fog2bYC9kqUC/6HYtpM=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: 7tns0zbRCaxfRwR+EqJ+q8eolC8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: ZMNAVpXEaHGp+bx/nuBawMiUz7M=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_monochrome.png
+SHA1-Digest: laW558WoPE8w9ZdOjrHGtxPn0ew=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: zYBe2GsXCR25pqLeaw6cSfMMQxU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: NJ466zQ0IVzY71TiM+OYTnFLIC4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: H2zw4xP8T1Y+aiLWSmECJpQ+XWo=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: Xunkvg33kSK7As3EyC5AYeS0GD8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_monochrome.png
+SHA1-Digest: x4bSQON+u7Zfq6lFbWHIRsowSmU=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 3T+D8JphkHY1D+QPB6go7Vsr2lI=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: Eq5AuMp8v4TnUViyQR+cJeFm1/M=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: dwNXup67ppIX4QSQFF1c+0GkxJ0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_monochrome.png
+SHA1-Digest: Gd5duJcsiJk+bBDPFi+aq6cjjrg=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: T+IqP/aob6mMVUABSiiIBeCBw2U=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: nuHO8kGYiB/KpsW9B6dsjKXwBZ8=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: a68u91fzOOaTPtLlVylX0G81n9c=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_monochrome.png
+SHA1-Digest: 1dPGMoIOUF+Tc5vOcrVsT8OuwIk=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: kpsxSFrkMLEnpFpDXxbUsmPajE8=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: yM0Iu+kYn9zhRAbxXTiUJmUEFcc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: oK3L9giMAtflopzodliBb/XtsBQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_monochrome.png
+SHA1-Digest: JIEcRi5nSPra1BBQSKzCBoVltus=
+
+Name: resources.arsc
+SHA1-Digest: Wb2eJJc+J/jqJUmoQJ/GguTiUX4=
+
